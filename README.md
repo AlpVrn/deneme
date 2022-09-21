@@ -3,4 +3,4 @@
 
 https://github.com/AlpVrn
 
-[lorem ipsum](google.com)
+[lorem ipsum](https://www.google.com.tr/?&hl=tr)
