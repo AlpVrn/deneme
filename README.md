@@ -2,6 +2,6 @@
 ## ALT BİLGİ
 
 
-https://github.com/AlpVrn
+[Ben ya](https://github.com/AlpVrn)
 
 [lorem ipsum](https://www.google.com.tr/?&hl=tr)
